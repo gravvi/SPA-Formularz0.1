@@ -5,7 +5,7 @@ using System.Web;
 
 namespace SPa_pierwszApp.testGita
 {
-    public class Class1
+    public class testGiataa
     {
     }
 }
