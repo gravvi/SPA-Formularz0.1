@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2021-02-28T20:07:28.7834248Z"
+    }
+  },
+  "parameters": {
+    "SPa-formularz.resourceGroupName": {
+      "Name": "SPa-formularz.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "apkaWebowa1"
+    },
+    "SPa-formularz.resourceName": {
+      "Name": "SPa-formularz.resourceName",
+      "Type": null,
+      "Value": "SPa-formularz"
+    },
+    "mssql1.subscriptionId": {
+      "Name": "mssql1.subscriptionId",
+      "Type": "subscription",
+      "Value": "74020830-2a71-4d94-95b2-07d4fe81c203"
+    },
+    "SPa-formularz.resourceGroupLocation": {
+      "Name": "SPa-formularz.resourceGroupLocation",
+      "Type": null,
+      "Value": "westeurope"
+    },
+    "mssql1.resourceGroupName": {
+      "Name": "mssql1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "apkaWebowa1"
+    },
+    "subscriptionId": {
+      "Name": "subscriptionId",
+      "Type": "subscription",
+      "Value": "74020830-2a71-4d94-95b2-07d4fe81c203"
+    },
+    "SPa-formularz.subscriptionId": {
+      "Name": "SPa-formularz.subscriptionId",
+      "Type": "subscription",
+      "Value": "74020830-2a71-4d94-95b2-07d4fe81c203"
+    }
+  }
+}
